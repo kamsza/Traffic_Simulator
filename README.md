@@ -1,4 +1,4 @@
-# Traffic_Simulator
+# Traffic Simulator
 
 Zadania zrealizowane w ramach przedmiotu [*Programowanie obiektowe*](https://syllabuskrk.agh.edu.pl/2017-2018/pl/magnesite/study_plans/stacjonarne-informatyka/module/iin-1-302-s-zimowy-programowanie-obiektowe).
 
