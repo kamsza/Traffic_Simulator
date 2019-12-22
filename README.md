@@ -1,9 +1,15 @@
 # Traffic Simulator
 
-Zadania zrealizowane w ramach przedmiotu [*Programowanie obiektowe*](https://syllabuskrk.agh.edu.pl/2017-2018/pl/magnesite/study_plans/stacjonarne-informatyka/module/iin-1-302-s-zimowy-programowanie-obiektowe).
 
-W ramach projektu stworzony został symulator ruchu drogowego, umożliwiający zmianę świateł, dostosowanie szybkości animacji oraz ilości pojazdów oraz podający dane na temat zakorkowania. 
+Project carried out as part of the subject [*Object Oriented Programming*](https://syllabuskrk.agh.edu.pl/2017-2018/en/magnesite/study_plans/stacjonarne-informatyka/module/iin-1-302-s-zimowy-object-oriented-programming).
 
-Plik *Simulation.java* dostarcza zestawu funkcji, dzięki którym można stworzyć drogi o dowolnej ilości pasów oraz położeniu. Przykład zastosowania funkcji podany został w pliku *Main.java*, oraz na poniższej animacji.
+The purpose of the project was creating a traffic simulator, that:
+* allows changing traffic lights, 
+* allows adjusting animation speed and number of vehicles,
+* provides data on traffic jams. 
+
+The ***Simulation.java*** file contains a set of functions that can be used to create vertical or horizontal roads with any number of lanes.
+
+An example of using the functions is given in the file ***Main.java***, and the animation below.
 
 <a href="https://gifyu.com/image/31VY"><img src="https://s2.gifyu.com/images/nagr2.gif" alt="nagr2.gif" border="0" /></a>
